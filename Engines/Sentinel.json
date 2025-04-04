@@ -4,8 +4,9 @@
     "source"  : "https://github.com/DanSamek/Sentinel",
 
     "build" : {
-        "cpuflags" : ["AVX", "SSE"],
-        "systems"  : ["Linux"]
+        "path"      : "src",
+        "compilers" : ["g++"],
+        "systems"   : ["Windows", "Linux"]
     },
 
     "test_presets" : {
