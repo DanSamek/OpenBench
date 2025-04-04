@@ -6,6 +6,7 @@
     "build" : {
         "path"      : "src",
         "compilers" : ["g++"],
+        "cpuflags"  : [],
         "systems"   : ["Windows", "Linux"]
     },
 
