@@ -12,7 +12,7 @@
 
     "test_presets" : {
         "default" : {
-            "base_branch"     : "openbench",
+            "base_branch"     : "main",
             "book_name"       : "UHO_4060_v2.epd",
             "test_bounds"     : "[0.00, 2.00]",
             "test_confidence" : "[0.10, 0.05]",
